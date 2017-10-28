@@ -46,7 +46,7 @@
         </plugins>
     </build>
     <packaging>jar</packaging>
-    <name>Spring Web Application</name>
+    <name>Rest API Template</name>
 
     <dependencies>
         <dependency>
